@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **the latest front-end web development trends**
 
-- 💙 Connect with me on linked in [robbiekthomas](https://www.linkedin.com/in/robbiekthomas/)
+- 💙 Connect with me on LinkedIn [robbiekthomas](https://www.linkedin.com/in/robbiekthomas/)
 
 - 📫 How to reach me **robbiekt@gmail.com**
 
