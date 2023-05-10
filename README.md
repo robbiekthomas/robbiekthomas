@@ -17,7 +17,7 @@
 
 - 💙 Connect with me on LinkedIn: [robbiekthomas](https://www.linkedin.com/in/robbiekthomas/)
 
-- 📫 How to reach me **robbiekt@gmail.com**
+- 📫 How to reach me: **robbiekt@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
